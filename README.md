@@ -1,2 +1,0 @@
-# SoftwareEngineeringProject
-Team A
